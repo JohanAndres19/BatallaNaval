@@ -1,10 +1,7 @@
+import vista.BatallaNaval;
 public class Main {
-    public static void main(String[] args) {
-      /*Jugador player=new Jugador();
-      Tablero table = new Tablero();
-      table.mostrarTablero();*/   
-      BatallaNaval batalla = new BatallaNaval();
-    }
-}   
+  public static void main(String[] args) {
+    BatallaNaval batalla = new BatallaNaval();
     
-
+  }
+}   
